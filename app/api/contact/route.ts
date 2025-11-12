@@ -5,7 +5,6 @@ export async function POST(req: Request) {
     const body = await req.json();
     const { name, email, message } = body; 
     
-
     // Here you would typically:
     // 1. Validate the input
     // 2. Save to a database
