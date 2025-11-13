@@ -74,6 +74,7 @@ export default function Contact() {
                 className="mt-1 block w-full rounded-md border-zinc-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 dark:border-zinc-600 dark:bg-zinc-800 dark:text-white"
               />
             </div>
+            
             <div>
               <button
                 type="submit"
