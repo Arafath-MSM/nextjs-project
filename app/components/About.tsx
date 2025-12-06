@@ -7,7 +7,7 @@ export default function About() {
           <p className="text-lg text-zinc-600 dark:text-zinc-400">
             I'm a full-stack developer with expertise in modern web technologies.
             I specialize in building scalable web applications using React, Next.js,
-            Node.js, and other cutting-edge technologies. With a strong foundation
+            Node.js, and other cutting-edge technologies. With a strong foundation 
             in both frontend and backend development, I create efficient,
             user-friendly solutions for real-world problems.
           </p>
